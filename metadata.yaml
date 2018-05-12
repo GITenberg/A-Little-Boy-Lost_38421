@@ -1,0 +1,43 @@
+_repo: A-Little-Boy-Lost_38421
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Lathrop, Dorothy Pulis
+    alias: Lathrop, Dorothy P. (Dorothy Pulis)
+    birthdate: 1891
+    deathdate: 1980
+    gutenberg_agent_id: '32530'
+    url: http://www.gutenberg.org/2009/agents/32530
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hudson, W. H. (William Henry)
+    aliases:
+    - Harford, Henry
+    - Hudson, William Henry
+    birthdate: 1841
+    deathdate: 1922
+    gutenberg_agent_id: '484'
+    url: http://www.gutenberg.org/2009/agents/484
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Hudson
+description: Originally published in 1905, A Little Boy Lost is the delightful story
+  of Martin, a seven-year old boy who each day wanders a little farther from his home
+  until he comes to a land of talking animals, gnomes, and people made of mist.
+gutenberg_issued: '2011-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38421'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy literature'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Self-reliance -- Juvenile fiction'
+- !lcsh 'Nature -- Juvenile fiction'
+title: A Little Boy Lost
+url: http://www.gutenberg.org/ebooks/38421
