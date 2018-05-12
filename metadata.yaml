@@ -25,6 +25,8 @@ creator:
 description: Originally published in 1905, A Little Boy Lost is the delightful story
   of Martin, a seven-year old boy who each day wanders a little farther from his home
   until he comes to a land of talking animals, gnomes, and people made of mist.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38421#A-Little-Boy-Lost
 gutenberg_issued: '2011-12-27'
 gutenberg_type: Text
 identifiers:
